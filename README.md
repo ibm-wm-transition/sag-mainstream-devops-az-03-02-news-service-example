@@ -1,4 +1,6 @@
-# News Service Microservices Runtime Example 
+# MOVING - News Service Microservices Runtime Example 
+
+# This repo will be moved away from the Software AG organization
 
 ## Prerequisites
 
